@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Reading Railroad",
+        "price": 200,
+        "mortgage_value": 100,
+        "pos": 5
+    },
+    {
+        "name": "Pennsylvania Railroad",
+        "price": 200,
+        "mortgage_value": 100,
+        "pos": 15
+    },
+    {
+        "name": "B. & O. Railroad",
+        "price": 200,
+        "mortgage_value": 100,
+        "pos": 25
+    },
+    {
+        "name": "Short Line",
+        "price": 200,
+        "mortgage_value": 100,
+        "pos": 35
+    }
+]

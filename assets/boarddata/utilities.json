@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Electric Company",
+        "price": 150,
+        "mortgage_value": 75,
+        "pos":12  
+    },
+    {
+        "name": "Water Works",
+        "price": 150,
+        "mortgage_value": 75,
+        "pos":28  
+    }
+]
